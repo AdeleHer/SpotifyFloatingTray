@@ -5,7 +5,7 @@
 > * import example from <https://www.androidhive.info/2016/11/android-floating-widget-like-facebook-chat-head/>
 
 ## Spotify Android SDK
-> * Get the music management from Spotify by API provided by Spotify
+> * Get the music management from Spotify by Spotify API which is provided by Spotify
 > * But the only music you can control is the default URI you write in the program
 > * You can't control the music you play on Spotify
 
